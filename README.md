@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeNameM1
-- 👀 I’m interested in programming/developing/networking
-- 🌱 I’m currently learning JavaScript and Google IT Support
+- 👀 I’m interested in networking/infosec
+- 🌱 I’m currently learning Mainframe and beginning cybersecurity/infosec
 - 💞️ I’m looking to collaborate on all projects and learning opportunities
 - 📫 How to reach me Leave mrwasson@ymail.com
 
